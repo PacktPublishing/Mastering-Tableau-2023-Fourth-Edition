@@ -1,0 +1,52 @@
+Abbreviation,State,Column,Row
+DC,District of Columbia,12,5
+ND,North Dakota,3.5,2
+NM,New Mexico,3.5,6
+AL,Alabama,7.5,6
+CA,California,2,5
+CT,Connecticut,11,3
+DE,Delaware,9.5,4
+FL,Florida,8.5,8
+HI,Hawaii,0.5,8
+ID,Idaho,2,3
+IL,Illinois,6,3
+KY,Kentucky,6.5,4
+ME,Maine,11.5,0
+MS,Mississippi,6.5,6
+MT,Montana,2.5,2
+NE,Nebraska,4.5,4
+NY,New York,9.5,2
+OR,Oregon,1.5,4
+RI,Rhode Island,11.5,2
+SC,South Carolina,8.5,6
+TN,Tennessee,7,5
+TX,Texas,4,7
+VT,Vermont,10,1
+AK,Alaska,0.5,0
+AZ,Arizona,3,5
+CO,Colorado,3.5,4
+GA,Georgia,8,7
+IA,Iowa,5,3
+IN,Indiana,7,3
+KS,Kansas,5,5
+MA,Massachusetts,10.5,2
+MD,Maryland,8.5,4
+MI,Michigan,7.5,2
+MO,Missouri,5.5,4
+NC,North Carolina,9,5
+NH,New Hampshire,11,1
+NJ,New Jersey,10,3
+NV,Nevada,2.5,4
+OH,Ohio,8,3
+OK,Oklahoma,4.5,6
+PA,Pennsylvania,9,3
+SD,South Dakota,4,3
+UT,Utah,4,5
+VA,Virginia,8,5
+WA,Washington,1.5,2
+WI,Wisconsin,5.5,2
+WV,West Virginia,7.5,4
+WY,Wyoming,3,3
+AR,Arkansas,6,5
+LA,Louisiana,5.5,6
+MN,Minnesota,4.5,2
