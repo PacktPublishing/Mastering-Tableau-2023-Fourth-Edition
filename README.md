@@ -1,26 +1,28 @@
-# Keycloak - Identity and Access Management for Modern Applications, Second Edition
-This is the code repository for [Keycloak - Identity and Access Management for Modern Applications, Second Edition](https://www.packtpub.com/product/keycloak-identity-and-access-management-for-modern-applications-second-edition/9781804616444), published by Packt.
+# Mastering Tableau 2023 - Fourth Edition
+This is the code repository for [Mastering Tableau 2023 - Fourth Edition](https://www.packtpub.com/product/mastering-tableau-2023-fourth-edition/9781803233765), published by Packt.
 
-**Harness the power of Keycloak, OpenID Connect, and OAuth 2.0 to secure applications**
+**Implement advanced business intelligence techniques, analytics, and machine learning models with Tableau**
 
-The authors of this book are -[Stian Thorgersen](https://www.linkedin.com/in/stian-thorgersen-4714983), [Pedro Igor Silva](https://www.linkedin.com/in/pigorcraveiro)
+The authors of this book are -[Marleen Meier](https://www.linkedin.com/in/marleenmeier/)
+
+
 ## About the book
-
-The 2nd Edition of Keycloak – Identity and Access Management for Modern Applications is a refreshed, comprehensive introduction to Keycloak and its updates.
+[ The 2nd Edition of Keycloak – Identity and Access Management for Modern Applications is a refreshed, comprehensive introduction to Keycloak and its updates.
 
 In this new edition, you will learn how to use the latest distribution of Keycloak. The recent versions of Keycloak are now based on Quarkus, which brings a new and improved user experience and a new admin console with a higher focus on usability. You will see how to leverage Spring Security, instead of the Keycloak Spring adapter, while using the latest distribution of Keycloak. As you progress, you will come to understand the new Keycloak distribution and explore best practices for using OAuth. Finally, you'll cover more general best practices and other information on how to protect your applications.
 
-By the end of this new edition, you will have learned how to install and manage the latest version of Keycloak to secure new and existing applications using the newest features.
+By the end of this new edition, you will have learned how to install and manage the latest version of Keycloak to secure new and existing applications using the newest features. ] This is pending to update
 
 
-## Key Takeaways (pending)
--	Understand how to install, configure and manage the latest version of Keycloak
--	Discover how to obtain access tokens through OAuth 2.0
--	Utilize a reverse proxy to secure an application implemented in any programming language or framework
--	Safely manage Keycloak in a production environment
-- Secure different types of applications, including web, mobile, and native
-- Discover the frameworks and third-party libraries that can expand Keycloak
-
+## Key Takeaways
+- Learn about various Tableau components, such as calculated fields, table calculations, and LOD expressions
+- Master ETL (Extract, Transform, Load) techniques using Tableau Prep Builder
+- Explore and implement data storytelling with Python and R
+- Understand Tableau Exchange by using accelerators, extensions, and connectors
+- Interact with Tableau Server to understand its functionalities
+- Study advanced visualizations and dashboard creation techniques
+- Brush up on powerful self-service analytics, time series analytics, and geo-spatial analytics
+- Find out why data governance matters and how to implement it
 
 ## New Edition v/s Previous Edition: (pending)
 -	Based on, and fully updated for, the newest Keycloak version
@@ -31,29 +33,31 @@ By the end of this new edition, you will have learned how to install and manage 
 
 ## What's New (pending)
 
-Unlike the previous edition of this book, which covered Keycloak as deployed on top of WildFly, a JavaEE Application Server, this edition of [Keycloak – Identity and Access Management for Modern Applications](https://www.packtpub.com/product/keycloak-identity-and-access-management-for-modern-applications-second-edition/9781804616444), focusses on the more recent versions of Keycloak which are built with Quarkus, a cloud native Java framework. Being based on Quarkus brings a number of improvements, reducing startup time significantly, reducing memory footprint, and most importantly bringing a much simpler and more consistent approach to configuring Keycloak.
+[  Unlike the previous edition of this book, which covered Keycloak as deployed on top of WildFly, a JavaEE Application Server, this edition of [Mastering Tableau 2023](https://www.packtpub.com/product/mastering-tableau-2023-fourth-edition/9781803233765), focusses on the more recent versions of Keycloak which are built with Quarkus, a cloud native Java framework. Being based on Quarkus brings a number of improvements, reducing startup time significantly, reducing memory footprint, and most importantly bringing a much simpler and more consistent approach to configuring Keycloak.
 
-Another big change to Keycloak, which is explored in this edition, is the new admin console which has a much bigger focus on usability than the previous console.
+Another big change to Keycloak, which is explored in this edition, is the new admin console which has a much bigger focus on usability than the previous console.  ]  To be updated
 
 
 ## Outline and Chapter Summary (pending)
 
 [One short Description]
 
-1. Getting Started with Keycloak
-2. [Securing Your First Application](https://github.com/PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition/tree/main/ch2)
-3. Brief Introduction to Standards
-4. [Authenticating Users with OpenID Connect](https://github.com/PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition/tree/main/ch4)
-5. [Authorizing Access with OAuth 2.0](https://github.com/PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition/tree/main/ch5)
-6. [Securing Different Application Types](https://github.com/PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition/tree/main/ch6)
-7. [Integrating Applications with Keycloak](https://github.com/PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition/tree/main/ch7)
-8. Authorization Strategies
-9. [Configuring Keycloak for Production](https://github.com/PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition/tree/main/ch9)
-10. Managing Users
-11. Authenticating Users
-12. Managing Tokens and Sessions
-13. [Extending Keycloak](https://github.com/PacktPublishing/Keycloak---Identity-and-Access-Management-for-Modern-Applications-2nd-Edition/tree/main/ch13)
-14. Securing Keycloak and Applications
+1. [Reviewing the Basics](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter01)
+2. [Getting Your Data Ready](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter02) 
+3. [Using Tableau Prep Builder](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter03) 
+4. [Learning about Joins, Blends, and Data Structures](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter04) 
+5. [Introducing Table Calculations](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter05)
+6. [Utilizing OData, Data Densification, Big Data, and Google BigQuery](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter06)
+7. [Practicing Level of Detail Calculations](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter07)
+8. [Going Beyond the Basics](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter08) 
+9. [Working with Maps](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter09)
+10. [Presenting with Tableau](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter10)
+11. [Designing Dashboards and Best Practices for Visualizations](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter11) 
+12. [Leveraging Advanced Analytics](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter12) 
+13. [Improving Performance](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter13)
+14. [Exploring Tableau Server and Tableau Cloud](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter14)
+15. [Integrating Programming Languages](https://github.com/PacktPublishing/Mastering-Tableau-2023-Fourth-Edition/tree/main/Chapter15) 
+16. Developing Data Governance Practices
 
 ### Chapter 01, Getting Started with Keycloak (This is pending)
 Keycloak, an open-source Identity and Access Management tool, is introduced in three parts. The initial segment emphasizes its relevance to modern apps and its installation process, with Docker and OpenJDK options highlighted. Part two elaborates on installation specifics, underlining Keycloak's lightweight design, scalability, and seamless integration with various identity systems. Part three delves into advanced configurations, discussing realms, users, groups, roles, and the user-centric account console. Key takeaways include Keycloak's adaptability for modern apps, its flexibility through customization, and its commitment to enhancing security via various authentication methods. These segments collectively establish the foundation for understanding, installing, and configuring Keycloak for effective application security.
