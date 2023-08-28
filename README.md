@@ -240,17 +240,10 @@ The final chapter delves into the crucial domain of data governance and its alig
 
 
 
-
-
-
-
-
-
-(Below this is Done)
 > If you feel this book is for you, get your [copy](https://www.amazon.com/Mastering-Tableau-2023-intelligence-techniques/dp/1803233761) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 
-With the following software and hardware list you can run all code files present in the book (Chapter number mention here).
+With the following software and hardware list you can run all code files present in the book.
 
 ## Software and hardware list
 
@@ -265,10 +258,10 @@ With the following software and hardware list you can run all code files present
 
 
 
-## Know more on the Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif"> (Done)
+## Know more on the Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
 You can get more engaged on the discord server for more latest updates and discussions in the community at [Discord](https://packt.link/tableau)
 
-## Download a free PDF <img alt="Coding" height="25" width="40" src="https://emergency.com.au/wp-content/uploads/2021/03/free.gif"> (Done)
+## Download a free PDF <img alt="Coding" height="25" width="40" src="https://emergency.com.au/wp-content/uploads/2021/03/free.gif">
 
 _If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost. Simply click on the link to claim your free PDF._
 [Free-Ebook](https://download.packt.com/free-ebook/9781803233765) <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
@@ -277,8 +270,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ## Get to know the Author
-_Marleen Meier_ This is pending
+_Marleen Meier_ is an accomplished analyst and author dedicated to unlocking the power of statistics and data. She studied at Westfälische Wilhelms University in Germany, and later contributed her skills to both the University and the Vrije Universiteit Amsterdam. She worked as a data analyst at Ingenico (formerly Global Collect), then moved to ABN AMRO Clearing where she continues today. She has shared her Tableau insights at conferences in the Netherlands and the UK and is co-leader of the Dutch Tableau User Group. She is an expert in risk analysis, data visualization, ML, A.I, and data quality and control. Marleen has lived and worked in Amsterdam, Chicago, and Singapore, and enjoys sport, time with friends and family, and board games
 
-## Other Related Books  (Done)
+## Other Related Books
 - [Data Modeling with Tableau](https://www.packtpub.com/product/data-modeling-with-tableau/9781803248028)
 - [Learning Tableau 2022 – Fifth Edition](https://www.packtpub.com/product/learning-tableau-2022-fifth-edition/9781801072328)
