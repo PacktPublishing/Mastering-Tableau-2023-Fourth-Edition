@@ -1,7 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
-
-<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
-
 # Mastering Tableau 2023 - Fourth Edition
 This is the code repository for [Mastering Tableau 2023 - Fourth Edition](https://www.packtpub.com/product/mastering-tableau-2023-fourth-edition/9781803233765), published by Packt.
 
